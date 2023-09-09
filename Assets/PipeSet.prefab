@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 2171354776641873869}
   - component: {fileID: 4743622247138025172}
   m_Layer: 0
-  m_Name: Pipes
+  m_Name: PipeSet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -214,3 +214,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 008a007c3f622438f8ec61fb388e85ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 3.5
