@@ -159,7 +159,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.21751513, g: 0.9391668, b: 0.9811321, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -402,7 +402,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80e66fa6e91ed4c13b0d65035628fa7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pipeSet: {fileID: 6117289616838473212, guid: 38a283b4f393a437b9359349d9f3da5d, type: 3}
+  pipeSet: {fileID: 2819036831738422262, guid: d8707d49f9da14b76806ada706c0f6e0, type: 3}
+  yOffset: 0.5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
